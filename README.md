@@ -1,6 +1,6 @@
 # Titanice Survival Prediction
 
-This notebook is my solution to the Kaggle Machine Learning Competition which can be found [here](https://www.kaggle.com/c/titanic).
+This notebook is my solution to the Titanic: Machine Learning from Disaster Kaggle Competition which can be found [here](https://www.kaggle.com/c/titanic).
 
 ## Abstract
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
