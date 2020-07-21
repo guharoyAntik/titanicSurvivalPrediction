@@ -1,4 +1,4 @@
-# Titanice Survival Prediction
+# Titanic Survival Prediction
 
 This notebook is my solution to the Titanic: Machine Learning from Disaster Kaggle Competition which can be found [here](https://www.kaggle.com/c/titanic).
 
